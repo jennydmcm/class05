@@ -175,7 +175,7 @@
 /** Tablet */
 @media (max-width: 820px) {
   .container{
-    background-color: rgb(0, 0, 255);
+    background-color: rgb(0,0,255);
   }
 }
 
